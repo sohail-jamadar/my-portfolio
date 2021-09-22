@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/my-portfolio/static/js/main.3b2745e3.chunk.js",
+    "main.js.map": "/my-portfolio/static/js/main.3b2745e3.chunk.js.map",
+    "runtime-main.js": "/my-portfolio/static/js/runtime-main.fc20c40d.js",
+    "runtime-main.js.map": "/my-portfolio/static/js/runtime-main.fc20c40d.js.map",
+    "static/js/2.92aa2a00.chunk.js": "/my-portfolio/static/js/2.92aa2a00.chunk.js",
+    "static/js/2.92aa2a00.chunk.js.map": "/my-portfolio/static/js/2.92aa2a00.chunk.js.map",
+    "index.html": "/my-portfolio/index.html",
+    "static/js/2.92aa2a00.chunk.js.LICENSE.txt": "/my-portfolio/static/js/2.92aa2a00.chunk.js.LICENSE.txt",
+    "static/media/BoyWithGlasses.b5cde5b8.jpg": "/my-portfolio/static/media/BoyWithGlasses.b5cde5b8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc20c40d.js",
+    "static/js/2.92aa2a00.chunk.js",
+    "static/js/main.3b2745e3.chunk.js"
+  ]
+}
