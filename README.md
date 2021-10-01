@@ -4,4 +4,4 @@ Hello My name is Sayed Sohail Jamadar. I have build this personal portfolio usin
 This portfolio is specifically built for a developer profile.
 
 
-Demo: https://www.sohail.codes
+Demo: https://sohail-jamadar.github.io/my-portfolio/
